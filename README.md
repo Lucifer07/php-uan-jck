@@ -16,7 +16,7 @@ using Xdebug traces to detect memory leaks and slow execution paths.
 ### Quick Install (Recommended)
 
 ```bash
-composer require phuan-jck/phpuan-jck
+composer require phpuan-jck/phpuan-jck
 php artisan phpuan-jck:install
 ```
 
@@ -32,7 +32,7 @@ If you prefer manual installation:
 
 ```bash
 # 1. Install package
-composer require phuan-jck/phpuan-jck
+composer require phpuan-jck/phpuan-jck
 
 # 2. Publish configuration
 php artisan vendor:publish --provider="PhpuanJck\Providers\PhpuanJckServiceProvider" --tag="phpuan-jck-config"

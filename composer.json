@@ -1,5 +1,5 @@
 {
-    "name": "phuan-jck/phpuan-jck",
+    "name": "phpuan-jck/phpuan-jck",
     "type": "library",
     "description": "A Laravel Performance Profiler Library for local development with Xdebug integration",
     "require": {
