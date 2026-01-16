@@ -2,6 +2,7 @@
     "name": "phpuan-jck/phpuan-jck",
     "type": "library",
     "description": "A Laravel Performance Profiler Library for local development with Xdebug integration",
+    "license": "MIT",
     "require": {
         "php": "^8.0",
         "laravel/framework": "^9.0|^10.0|^11.0"
